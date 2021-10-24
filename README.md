@@ -4,7 +4,7 @@
 
 Here are a few things that describe me:
 
-- 💼&nbsp;&nbsp; I'm currently working full-time at [itech-softsolutions](https://itech-softsolutions.com/) as a Frontend Software Developer
+- 💼&nbsp;&nbsp; I'm working as a Full Stack Software Developer
 - 📱&nbsp;&nbsp; I like to build apps of my own. One Recent example [Image To Canvas](https://imagetocanvas.vercel.app/). I'm currently building a first and leading career management portal in Bangladesh for sharing people cv/resume profile.
 - ⌨️&nbsp;&nbsp; I spend most of my time writing Javascipt on both the front-end and back-end as well as ⚡ mern stack & menn stack.
 - 💬&nbsp;&nbsp; The two social platforms I'm active on are [Twitter](https://twitter.com/irashad42) and [LinkedIn](https://www.linkedin.com/in/rashadul-islam12345/), where I mostly post about web development. Feel free to connect and reach out to me there.
