@@ -10,7 +10,7 @@ Here are a few things that describe me:
 - 💬&nbsp;&nbsp; The two social platforms I'm active on are [Twitter](https://twitter.com/irashad42) and [LinkedIn](https://www.linkedin.com/in/rashadul-islam12345/), where I mostly post about web development. Feel free to connect and reach out to me there.
 
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Mamun-swe&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun-swe&theme=tokyonight&hide_border=true" width="49%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=iamrashed01&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamrashed01&theme=tokyonight&hide_border=true" width="49%" >
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mamun-swe&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamrashed01&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
